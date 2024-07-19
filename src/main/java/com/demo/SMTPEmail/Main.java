@@ -10,14 +10,14 @@ import org.simplejavamail.mailer.MailerBuilder;
 public class Main{
 	
 	
-	public static final String Email_From = "anmol.gupta@rsk-bsl.com";
+	public static final String Email_From = "";
 	public static final String EMAIL_SECRET = "351ce9a2eac430ca77b9b8f71a03f74968bd4470a8bf74c45eca1e17a955ef48";
     public static final String EMAIL_SALT = "66cc:3e32:c7e8:550c:c317:07a1:60e5:afc5";
-    public static final String EMAIL_TOKEN = "S5CjZCrvRxqR3uIrVyhYIw==";
+    public static final String EMAIL_TOKEN = "";
     public static final String SMTP_HOST = "smtp.office365.com";
     public static final int SMTP_PORT = 587;
-    public static final String Email_to="rashamdeep.singh@rsk-bsl.com,anmolgupta02@gmail.com";
-    public static final String Email_cc="rashamdeep.singh@rsk-bsl.com,anmolgupta02@gmail.com";
+    public static final String Email_to="";
+    public static final String Email_cc="";
     
     String emailSubject="Sending this from a Java Code Program";
     String emailBody="<h1>This is a sample email sent from a java program.</h1><h2>To and CC TEST</h2>";
