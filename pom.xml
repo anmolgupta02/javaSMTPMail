@@ -57,11 +57,11 @@
   
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.simplejavamail/simple-java-mail -->
-<dependency>
-    <groupId>org.simplejavamail</groupId>
-    <artifactId>simple-java-mail</artifactId>
-    <version>8.11.2</version>
-</dependency>
+	<dependency>
+	    <groupId>org.simplejavamail</groupId>
+	    <artifactId>simple-java-mail</artifactId>
+	    <version>8.11.2</version>
+	</dependency>
 
   
   </dependencies>

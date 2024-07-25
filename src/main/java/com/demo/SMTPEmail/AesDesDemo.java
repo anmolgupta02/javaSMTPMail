@@ -91,5 +91,6 @@ public class AesDesDemo
         System.out.println("Original value: " + originalval);  
         System.out.println("Encrypted value: " + encryptedval);  
         System.out.println("Decrypted value: " + decryptedval);  
+        scan.close();
     }  
 }  
